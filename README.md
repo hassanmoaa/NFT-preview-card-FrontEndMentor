@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/hassanmoaa/NFT-preview-card-FrontEndMentor.git)
+- Live Site URL: (https://zingy-kitten-f5398f.netlify.app/)
 
 
 ### Built with
