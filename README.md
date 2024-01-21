@@ -32,7 +32,7 @@ Users should be able to:
 
 ![Desktop-PNG](solution-screens/desktop-design.png)
 ![Desktop-text-effect-PNG](solution-screens/desktop-design-text-effect.png)
-![Desktop-text-effect-PNG](solution-screens/desktop-design-overlay-effect.png)
+![Desktop-overlay-effect-PNG](solution-screens/desktop-design-overlay-effect.png)
 ![Mobile-PNG](solution-screens/mobile-design.png)
 
 
