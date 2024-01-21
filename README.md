@@ -71,17 +71,21 @@ It gived me motivation to pursue more Front-end challenges as it sharpens my ski
 }
 
 
-- /*overlay-eye-image*/
-.overlay {
+/*overlay-eye-image*/
+.icon-overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
+    top: 5.8rem;
     bottom: 0;
-    height: 100%;
-    width: 100%;
+    left: 38.2rem;
+    right: 0;
     opacity: 0;
-    background-color: var(--cyan);    
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: var(--cyan); 
 }
 
 
